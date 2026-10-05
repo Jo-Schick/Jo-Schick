@@ -9,69 +9,69 @@ Meine Projekte stelle ich auf meiner Portfolio-Seite vor: **[j-schick.de](https:
 
 ### Grundlagen
 
-![C++-Logo](/icons/cpp.svg)
-![Java-Logo](/icons/java.svg)
-![Javascript-Logo](/icons/javascript.svg)
-![Typescript-Logo](/icons/typescript.svg)
-![HTML-Logo](/icons/html.svg)
-![CSS-Logo](/icons/css.svg)
-![SQL-Logo](/icons/sql.svg)
+![C++-Logo](/icons/cpp.svg "C++")
+![Java-Logo](/icons/java.svg "Java")
+![Javascript-Logo](/icons/javascript.svg "JavaScript")
+![Typescript-Logo](/icons/typescript.svg "TypeScript")
+![HTML-Logo](/icons/html.svg "HTML5")
+![CSS-Logo](/icons/css.svg "CSS3")
+![SQL-Logo](/icons/sql.svg "SQL")
 
 ### Frameworks & Tools mit Projekterfahrung
 
 #### Frontend & Mobile
 
-![Angular-Logo](/icons/angular.svg)
-![Ionic-Logo](/icons/ionic.svg)
-![Capacitor-Logo](/icons/capacitor.svg)
-![Android-Logo](/icons/android.svg)
-![Kotlin-Logo](/icons/kotlin.svg)
+![Angular-Logo](/icons/angular.svg "Angular")
+![Ionic-Logo](/icons/ionic.svg "Ionic")
+![Capacitor-Logo](/icons/capacitor.svg "Capacitor")
+![Android-Logo](/icons/android.svg "Android")
+![Kotlin-Logo](/icons/kotlin.svg "Kotlin")
 
 #### Backend & Daten
 
-![Spring-Logo](/icons/spring.svg)
-![Thymeleaf-Logo](/icons/thymeleaf.svg)
-![PostgreSQL-Logo](/icons/postgres.svg)
-![Supabase-Logo](/icons/supabase.svg)
+![Spring-Logo](/icons/spring.svg "Spring Boot")
+![Thymeleaf-Logo](/icons/thymeleaf.svg "Thymeleaf")
+![PostgreSQL-Logo](/icons/postgres.svg "PostgreSQL")
+![Supabase-Logo](/icons/supabase.svg "Supabase")
 
 #### Testing
 
-![Mockito-Logo](/icons/mockito.svg)
-![Cucumber-Logo](/icons/cucumber.svg)
+![Mockito-Logo](/icons/mockito.svg "Mockito")
+![Cucumber-Logo](/icons/cucumber.svg "Cucumber")
 
 #### Grafik & Games
 
-![OpenGL-Logo](/icons/opengl.svg)
-![Unity-Logo](/icons/unity.svg)
-![C#-Logo](/icons/cs.svg)
+![OpenGL-Logo](/icons/opengl.svg "OpenGL")
+![Unity-Logo](/icons/unity.svg "Unity")
+![C#-Logo](/icons/cs.svg "C#")
 
 #### Design
 
-![Figma-Logo](/icons/figma.svg)
+![Figma-Logo](/icons/figma.svg "Figma")
 
 ### Erste Erfahrungen
 
-![Flutter-Logo](/icons/flutter.svg)
-![Dart-Logo](/icons/dart.svg)
-![Swift-Logo](/icons/swift.svg)
-![Next.js-Logo](/icons/next.svg)
+![Flutter-Logo](/icons/flutter.svg "Flutter")
+![Dart-Logo](/icons/dart.svg "Dart")
+![Swift-Logo](/icons/swift.svg "Swift")
+![Next.js-Logo](/icons/next.svg "Next.js")
 
 ### Systeme & DevOps
 
-![Linux-Logo](/icons/linux.svg)
-![Ubuntu-Logo](/icons/ubuntu.svg)
-![Debian-Logo](/icons/debian.svg)
-![Windows-Logo](/icons/windows.svg)
-![Apple-Logo](/icons/apple.svg)
-![Android-Logo](/icons/android.svg)
+![Linux-Logo](/icons/linux.svg "Linux")
+![Ubuntu-Logo](/icons/ubuntu.svg "Ubuntu")
+![Debian-Logo](/icons/debian.svg "Debian")
+![Windows-Logo](/icons/windows.svg "Windows")
+![Apple-Logo](/icons/apple.svg "macOS")
+![Android-Logo](/icons/android.svg "Android")
 
-![Git-Logo](/icons/git.svg)
-![GitHub-Logo](/icons/github.svg)
-![GitLab-Logo](/icons/gitlab.svg)
-![Bash-Logo](/icons/bash.svg)
-![Docker-Logo](/icons/docker.svg)
-![CMake-Logo](/icons/cmake.svg)
-![Proxmox-Logo](/icons/proxmox.svg)
+![Git-Logo](/icons/git.svg "Git")
+![GitHub-Logo](/icons/github.svg "GitHub")
+![GitLab-Logo](/icons/gitlab.svg "GitLab")
+![Bash-Logo](/icons/bash.svg "Bash")
+![Docker-Logo](/icons/docker.svg "Docker")
+![CMake-Logo](/icons/cmake.svg "CMake")
+![Proxmox-Logo](/icons/proxmox.svg "Proxmox")
 
 ## Homelab
 
